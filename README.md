@@ -8,6 +8,7 @@
 
 I'm a Front End Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, i created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time i work with WordPress but some technologies i enjoy working with include ReactJS, JavaScript as well as Shopify.
 
+
 ## 🚀 My Skills  
 
 <p align="center gap-6">
@@ -19,6 +20,8 @@ I'm a Front End Web Developer who is passionate about making error-free websites
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> Next.js &nbsp;&nbsp;
 </p>
 
+
+## My Learning 🚀
 - 🔭 I’m currently working on My Project 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
