@@ -3,6 +3,10 @@
 
 ![github-banner](https://github.com/user-attachments/assets/41a52f16-bc83-4224-9872-1e11b2b18b36)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+there;I+am+Nayem+Ahmmed;Nice+to+meet+you" />
+</p>
+
 ## I am dedicated to continuously improving my skills as a Front-End Developer.
 
 
