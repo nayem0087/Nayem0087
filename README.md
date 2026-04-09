@@ -13,8 +13,8 @@ I'm a Front End Web Developer who is passionate about making error-free websites
 <p align="center gap-6">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/> HTML5 &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/> CSS3 &nbsp;&nbsp;
-  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/> Tailwind CSS
-  <img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="40"/> JavaScript
+  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/> Tailwind CSS &nbsp;&nbsp;
+  <img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="40"/> JavaScript &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> Next.js &nbsp;&nbsp;
 </p>
