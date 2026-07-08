@@ -24,7 +24,7 @@ I'm a Front End Web Developer who is passionate about making error-free websites
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> Node.js &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/> Express.js &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> MongoDB &nbsp;&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" height="40"/> Better Auth
+  <strong>🛡️ Better Auth</strong>
 </p>
 
 
