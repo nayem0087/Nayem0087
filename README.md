@@ -1,6 +1,7 @@
 # Hi there 👋 
+## I'am Nayem Ahmmed
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hello+there+👋;I+am+Nayem+Ahmmed;Nice+to+meet+you" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;I+am+Nayem+Ahmmed;Passionate+about+building+Web+Apps" />
 </p>
 
 ![github-banner](https://github.com/user-attachments/assets/41a52f16-bc83-4224-9872-1e11b2b18b36)
@@ -20,12 +21,16 @@ I'm a Front End Web Developer who is passionate about making error-free websites
   <img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="40"/> JavaScript &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/> React &nbsp;&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/> Next.js &nbsp;&nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/> Node.js &nbsp;&nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/> Express.js &nbsp;&nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> MongoDB &nbsp;&nbsp;
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/auth0/auth0-original.svg" height="40"/> Better Auth
 </p>
 
 
 ## My Learning 🚀
 - 🔭 I’m currently working on My Project 
-- 🌱 I’m currently learning JavaScript, React, Node.js 
+- 🌱 I’m currently learning JavaScript, React, Node.js, Next.js, MongoDB, Express.js, Better-auth, Node.js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
